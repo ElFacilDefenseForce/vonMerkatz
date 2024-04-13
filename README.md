@@ -20,7 +20,3 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp minify-css` minifies the compiled CSS file
 - `gulp minify-js` minifies the themes JS file
 - `gulp copy` copies dependencies from node_modules to the vendor directory
-
-## Copyright and License
-
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
